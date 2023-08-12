@@ -1,0 +1,59 @@
+Body
+{
+    padding-top: 20vw;
+    background-image: linear-gradient(to left, #fcb69f, #ffecd2 ); 
+    background-size: cover; 
+}
+
+h1{
+    display: grid;
+    place-items:center;
+    
+}
+.main{
+    display: grid;
+    Place-items:center;
+    Min-width: 60vw;
+    min-height: 150vw;
+    background-image:linear-gradient(89.8deg, rgb(39, 115, 255) 4.3%, rgb(62, 211, 232) 101.4%); 
+    border-radius:150vw;
+    color:black;
+    border-radius: 10vw;
+   
+   
+}
+
+#screen{
+    width: 80vw ;
+    height: 20vw;
+    border:1vw solid black;
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    border-radius:50vw;
+    
+}
+
+table{
+    text-align: center ;
+    place-items:center;
+}
+.button{
+    width: 17vw;
+    height: 15vw;
+    border-radius: 25vw;
+    border:.5vw solid black;
+    box-shadow: blue;
+}
+.equal {
+    width: 37vw;
+    height: 15vw;
+    border-radius: 25vw;
+    border:.5vw solid black;
+    background-color: darkorange;
+}
+input [type=text]{
+    padding: 75px;
+    margin-left: 45px;
+}
+
