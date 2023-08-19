@@ -31,6 +31,7 @@ h1{
     top: 15%;
     left: 8%;
     border-radius:50vw;
+    font-size: 7vw;
     
 }
 
@@ -44,6 +45,7 @@ table{
     border-radius: 25vw;
     border:.5vw solid black;
     box-shadow: blue;
+    font-size: 4.5vw;
 }
 .equal {
     width: 37vw;
